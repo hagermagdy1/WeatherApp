@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CheckWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialogLocation">Initial Setup</string>
+    <string name="locationCheck">Location</string>
+    <string name="notifications">Notifications</string>
+    <string name="btnOk">OK</string>
+    <string name="GpsCheck">GPS</string>
+    <string name="MapCheck">Map</string>
+    <string name="btnDone">Done</string>
+    <string name="noInternetDialog">You Must Turn On Your GPS</string>
+    <string name="btnFrom">From</string>
+    <string name="btnTo">To</string>
+    <string name="timePicker">Pick Your Time</string>
+
+
+
+
+    <string name="favTittle">Favorites</string>
+    <string name="alerTittle">Alerts</string>
+    <string name="settingTittle">Settings</string>
+
+    <string name="pressure">Pressure</string>
+    <string name="Humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="uv">UV</string>
+    <string name="visibility">Visibilty</string>
+    <string name="clouds"> Clouds</string>
+    <string name="next_days">Coming Days</string>
+    <string name="next_hours">Coming Hours</string>
+
+
+    <string name="chooseLocation">Location</string>
+    <string name="gps">GPS</string>
+    <string name="map">Map</string>
+
+    <string name="chooseLanguage"> Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+
+    <string name="tempUnits">Tempreture units</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenhite">Fahrenhite</string>
+    <string name="kelvin">Kelvin</string>
+
+    <string name="datePicker">Date Picker</string>
+
+
+    <string name="speedUnits">Speed units</string>
+    <string name="m_s">m/s</string>
+    <string name="m_h">m/h</string>
+
+    <string name="emptyListFav">Your Favorite Places List Is Empty</string>
+
+    <string name="btnSave">Save</string>
+
+    <string name="sharedPref">com.example.checkweather.hager</string>
+    <string name="firstOpen">first</string>
+    <string name="lat">lat</string>
+    <string name="lon">lon</string>
+    <string name="latMap">lat</string>
+    <string name="lonMap">lon</string>
+    <string name="location">location</string>
+    <string name="mapp">map</string>
+    <string name="timeZone">timezone</string>
+    <string name="languageSettings">languagesetting</string>
+    <string name="tempSetting">tempsettings</string>
+    <string name="speedSetting">speedSetting</string>
+    <string name="locationnSetting">locationSetting</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="speed">Choose Speed Unit</string>
+    <string name="isFav">isFav</string>
+
+
+</resources>

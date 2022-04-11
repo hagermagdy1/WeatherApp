@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheckWeather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialogLocation">الاعدادات الاوليه</string>
+    <string name="locationCheck">الموقع</string>
+    <string name="notifications">Notifications</string>
+    <string name="btnOk">حسنا</string>
+    <string name="GpsCheck">موقعك الجغرافي</string>
+    <string name="MapCheck">الخريطه</string>
+    <string name="btnDone">تم</string>
+    <string name="noInternetDialog">فعل  خدمه الموقع</string>
+
+    <string name="btnFrom">من</string>
+    <string name="btnTo">الي</string>
+    <string name="timePicker">حدد موعدك</string>
+
+    <string name="favTittle">قائمه المفضله</string>
+    <string name="alerTittle">التنبيهات</string>
+    <string name="settingTittle">الاعدادات</string>
+
+    <string name="visibility">الرؤيه</string>
+    <string name="pressure">الضغط الجوي</string>
+    <string name="Humidity">الرطوبه</string>
+    <string name="wind_speed">سرعه الرياح</string>
+    <string name="uv">الاشعه </string>
+    <string name="clouds"> سحب</string>
+
+
+    <string name="next_days">الايام القادمه</string>
+    <string name="next_hours">الساعات القادمه</string>
+
+    <string name="chooseLocation">الموقع</string>
+    <string name="gps">موقعك الجغرافي</string>
+    <string name="map">الخريطه</string>
+
+    <string name="chooseLanguage"> اللغة</string>
+    <string name="english">اللغة الانجليزيه </string>
+    <string name="arabic">اللغة العربيه</string>
+
+    <string name="tempUnits">درجات الحراره</string>
+    <string name="celsius">مئويه</string>
+    <string name="fahrenhite">فهرنهايت</string>
+    <string name="kelvin">كيلفن</string>
+
+    <string name="speedUnits">سرعه الرياح</string>
+    <string name="m_s">متر/الثانيه</string>
+    <string name="m_h">اميال/الساعه</string>
+    <string name="datePicker">اختر التاريخ</string>
+
+    <string name="emptyListFav">قائمه اماكنك المفضله فارغه</string>
+
+    <string name="btnSave">حفظ</string>
+
+    <string name="sharedPref">com.example.checkweather.hager</string>
+    <string name="firstOpen">first</string>
+    <string name="lat">lat</string>
+    <string name="lon">lon</string>
+    <string name="latMap">lat</string>
+    <string name="lonMap">lon</string>
+    <string name="location">location</string>
+    <string name="mapp">map</string>
+    <string name="timeZone">timezone</string>
+    <string name="languageSettings">languagesetting</string>
+    <string name="tempSetting">tempsettings</string>
+    <string name="speedSetting">speedSetting</string>
+    <string name="locationnSetting">locationSetting</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="speed">وحدات السرعه</string>
+    <string name="isFav">isFav</string>
+</resources>
